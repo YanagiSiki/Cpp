@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1415205806 source:c:\users\gmai\desktop\c++\hw5\main.cpp
+	"group.h"
+	<iostream>
+
+1415203505 c:\users\gmai\desktop\c++\hw5\group.h
+	<iostream>
+	<vector>
+	<UnitTest++.h>
+
+1414504974 source:c:\users\gmai\desktop\c++\hw5\student.cpp
+	"group.h"
+	<iostream>
+
+1415206810 source:c:\users\gmai\desktop\c++\hw5\unit_test.cpp
+	"group.h"
+
+1415206680 source:c:\users\gmai\desktop\c++\hw5\group.cpp
+	"group.h"
+	<iostream>
+

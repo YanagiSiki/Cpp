@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414223182 source:c:\users\gmai\desktop\c++\hw2\hw2.cpp
+	<iostream>
+	<vector>
+	<string>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1393751344 source:c:\temp\delete\prog\snake\snake.c
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1266069014 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1393751344 source:e:\cpp\snake\snake.c
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1266069014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+

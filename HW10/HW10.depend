@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1418312621 source:c:\users\gmai\desktop\c++\hw10\main.cpp
+	"template.h"
+
+1418313105 c:\users\gmai\desktop\c++\hw10\template.h
+	<iostream>
+	<string>
+	<vector>
+

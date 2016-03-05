@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1414939688 source:c:\users\gmai\desktop\c++\hw6\main.cpp
+	"Date.h"
+
+1415726715 source:c:\users\gmai\desktop\c++\hw6\date.cpp
+	"Date.h"
+
+1415763732 c:\users\gmai\desktop\c++\hw6\date.h
+	<iostream>
+	<string>
+	<vector>
+	<UnitTest++.h>
+	<stdlib.h>
+	<iomanip>
+
+1414931618 source:c:\users\gmai\desktop\c++\maim.cpp
+
+1415727123 source:c:\users\gmai\desktop\c++\hw6\unittest.cpp
+	"Date.h"
+

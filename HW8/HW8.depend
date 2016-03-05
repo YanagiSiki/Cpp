@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1417000212 source:c:\users\gmai\desktop\c++\hw8\main.cpp
+	"shape.h"
+	"v_shape.h"
+
+1417000173 c:\users\gmai\desktop\c++\hw8\shape.h
+	<iostream>
+	<string>
+	<vector>
+	<UnitTest++.h>
+	<stdlib.h>
+	<iomanip>
+
+1417000146 source:c:\users\gmai\desktop\c++\hw8\shape.cpp
+	"shape.h"
+
+1417000429 source:c:\users\gmai\desktop\c++\hw8\unittest.cpp
+	"shape.h"
+	"v_shape.h"
+
+1417000134 c:\users\gmai\desktop\c++\hw8\v_shape.h
+	<iostream>
+	<string>
+	<vector>
+	<UnitTest++.h>
+	<stdlib.h>
+	<iomanip>
+
+1417000212 source:c:\users\gmai\desktop\c++\hw8\v_shape.cpp
+	"v_shape.h"
+

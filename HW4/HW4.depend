@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1414246108 source:c:\users\gmai\desktop\c++\hw4\main.cpp
+	"group.h"
+	<iostream>
+
+1414244450 c:\users\gmai\desktop\c++\hw4\group.h
+	<iostream>
+	<vector>
+
+1414239181 source:c:\users\gmai\desktop\c++\hw4\student.cpp
+	"group.h"
+	<iostream>
+
+1414243702 source:c:\users\gmai\desktop\c++\hw4\unit_test.cpp
+
+1414246422 source:c:\users\gmai\desktop\c++\hw4\group.cpp
+	"group.h"
+	<iostream>
+
